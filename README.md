@@ -9,7 +9,7 @@
 
 ## About Me
 
-- I'm currently mastering **Core Java** — OOP, Inheritance, Arrays and beyond
+- I'm currently mastering **Core Java** 
 - Goal: Become a **Java Full Stack Developer** and land my first dev job
 - I believe in **learning by doing** — every concept I learn, I code it
 - Reach me at: [linkedin.com/in/hari-prasad01](https://www.linkedin.com/in/hari-prasad01)
@@ -34,11 +34,11 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [☕ java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice — from basics to OOP mastery | Java |
-| [🌐 frontend-javascript-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | Real-world JS web apps with clean UI design | HTML, CSS, JS |
-| [📘 java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts — methods, classes, problem solving | Java |
-| [⚙️ DevOps](https://github.com/hariprasadcode/DevOps) | My development journey documented through projects | Java |
-| [🔧 version-control-practice](https://github.com/hariprasadcode/version-control-practice) | Git & GitHub workflows — commits, branching, merging | Git |
+| [ java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice — from basics to OOP mastery | Java |
+| [ frontend-javascript-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | Real-world JS web apps with clean UI design | HTML, CSS, JS |
+| [ java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts — methods, classes, problem solving | Java |
+| [ DevOps](https://github.com/hariprasadcode/DevOps) | My development journey documented through projects | Java |
+| [ version-control-practice](https://github.com/hariprasadcode/version-control-practice) | Git & GitHub workflows — commits, branching, merging | Git |
 
 ---
 
