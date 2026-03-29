@@ -7,16 +7,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - I'm currently mastering **Core Java** — OOP, Inheritance, Arrays and beyond
-- 🎯 Goal: Become a **Java Full Stack Developer** and land my first dev job
+- Goal: Become a **Java Full Stack Developer** and land my first dev job
 - I believe in **learning by doing** — every concept I learn, I code it
-- 📫 Reach me at: [linkedin.com/in/hari-prasad01](https://www.linkedin.com/in/hari-prasad01)
+- Reach me at: [linkedin.com/in/hari-prasad01](https://www.linkedin.com/in/hari-prasad01)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📂 Featured Repositories
+## Featured Repositories
 
 | Repository | Description | Tech |
 |---|---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariprasadcode&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 🗺️ Java Learning Roadmap
+## Java Learning Roadmap
 
 ```
 ✅ Java Basics          → Variables, Data Types, Keywords
@@ -69,7 +69,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hari-prasad01" target="_blank">
@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-  <i>"One line of code today, one step closer to the developer I want to become."</i> 💪
+  <i>"One line of code today, one step closer to the developer I want to become."</i> 
 </p>
