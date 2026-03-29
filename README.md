@@ -9,11 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm currently mastering **Core Java** — OOP, Inheritance, Arrays and beyond
+- I'm currently mastering **Core Java** — OOP, Inheritance, Arrays and beyond
 - 🎯 Goal: Become a **Java Full Stack Developer** and land my first dev job
-- 💡 I believe in **learning by doing** — every concept I learn, I code it
-- 📅 Started my coding journey: **February 28, 2026**
-- 🔥 Consistency is my superpower — **211+ commits and counting**
+- I believe in **learning by doing** — every concept I learn, I code it
 - 📫 Reach me at: [linkedin.com/in/hari-prasad01](https://www.linkedin.com/in/hari-prasad01)
 
 ---
