@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hari Prasad</h1>
+<h1 align="center">I'm Hari Prasad</h1>
 <h3 align="center">Java Full Stack Developer in the Making | Turning Ideas into Code | Coding the Future 🚀</h3>
 
 <p align="center">
