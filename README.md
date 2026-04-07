@@ -36,7 +36,7 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [ java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice — from basics to OOP mastery | Java |
+| [ java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice — from basics to mastery | Java |
 | [ frontend-javascript-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | Real-world JS web apps with clean UI design | HTML, CSS, JS |
 | [ java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts — methods, classes, problem solving | Java |
 | [ DevOps](https://github.com/hariprasadcode/DevOps) | My development journey documented through projects | Java |
