@@ -9,7 +9,7 @@
 
 ## About Me
 
-- I'm currently mastering **Core Java **
+- I'm currently mastering *Core Java*
 - Goal: Become a **Java Full Stack Developer** and land my first dev job
 - I believe in **learning by doing** — every concept I learn, I code it
 - Reach me at: [linkedin.com/in/hari-prasad01](https://www.linkedin.com/in/hari-prasad01)
