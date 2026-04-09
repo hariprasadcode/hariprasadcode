@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <i>"One line of code today, one step closer to the developer I want to become."</i> 
+  <i>"One line of code today, one step closer to the developer I want to become.."</i> 
 </p>
