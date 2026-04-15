@@ -58,7 +58,7 @@
 ## 🏆 HackerRank
 
 <p align="center">
-  <a href="https://www.hackerrank.com/your-username">
+  <a href="https://www.hackerrank.com/profile/hariprasadachar1">
     <img src="https://img.shields.io/badge/HackerRank-Java%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
