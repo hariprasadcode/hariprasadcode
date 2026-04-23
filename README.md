@@ -41,6 +41,7 @@
 | [ java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts — methods, classes, problem solving | Java |
 | [ DevOps](https://github.com/hariprasadcode/DevOps) | My development journey documented through projects | Java |
 | [ version-control-practice](https://github.com/hariprasadcode/version-control-practice) | Git & GitHub workflows — commits, branching, merging | Git |
+| [ DSA-Java ](https://github.com/hariprasadcode/DSA-Java) | Data Structure and Algorithm | Java|
 
 ---
 
