@@ -1,5 +1,5 @@
  <h1 align="center">I'm Hari Prasad</h1>
-<h3 align="center">Java Full Stack Developer in the Making | Turning Ideas into Code | Coding the Future 🚀</h3>
+<h3 align="center">Java Full Stack Developer in the Making | Turning Ideas into Code | Coding the Future </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Java+Developer+%7C+Lifelong+Learner;Building+Projects+Every+Day;From+Basics+to+Full+Stack!" alt="Typing SVG" />
