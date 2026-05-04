@@ -19,7 +19,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git" />
 </p>
 
 ---
@@ -71,4 +71,4 @@
   <i>Consistency builds skill.</i>
 </p>
 
-## Roadmap
+
