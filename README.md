@@ -1,5 +1,5 @@
 <h1 align="center">Hari Prasad</h1>
-<h3 align="center">Java Full Stack Developer (in progress)</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Building+projects+consistently;Learning+by+doing;Focused+on+clean+code+and+logic" />
@@ -62,5 +62,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariprasadcode&label=views&color=111111&style=flat" />
+</p>
+
+<p align="center">
+  <i>Consistency builds skill.</i>
+</p>
 
 ## Roadmap
