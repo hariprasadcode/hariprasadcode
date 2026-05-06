@@ -29,7 +29,7 @@
 | Project | Description |
 |--------|------------|
 | [java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice and progress |
-| [frontend-javascript-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | UI-focused JavaScript projects |
+| [Webdevelopment-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | UI-focused JavaScript projects |
 | [java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts |
 | [DevOps](https://github.com/hariprasadcode/DevOps) | Development experiments |
 | [version-control-practice](https://github.com/hariprasadcode/version-control-practice) | Git workflows |
