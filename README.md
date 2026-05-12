@@ -11,7 +11,7 @@
 
 - Currently focused on Core Java and problem solving  
 - Working towards becoming a full stack developer  
-- Prefer learning through building real projects  
+- Prefer learning through building real projects. 
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01  
 
 ---
