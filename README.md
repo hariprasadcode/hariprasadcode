@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Building+projects+consistently;Learning+by+doing;Focused+on+clean+code+and+logic" />
 </p>
 
----
+-----
 
 ## About
 
@@ -14,7 +14,7 @@
 - Prefer learning through building real projects. 
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01  
 
----
+-----
 
 ## Stack
 
