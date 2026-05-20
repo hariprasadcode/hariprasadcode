@@ -48,7 +48,7 @@
 
 ---
 
-## Profiles
+## Profile
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/hariprasadachar1">
