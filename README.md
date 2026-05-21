@@ -46,7 +46,7 @@
 
 ---
 
-## Profile
+## Profiles
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/hariprasadachar1">
@@ -63,8 +63,6 @@
   <img src="https://komarev.com/ghpvc/?username=hariprasadcode&label=views&color=111111&style=flat" />
 </p>
 
-<p align="center">
-  <i>Consistency builds skill.</i>
-</p>
+
 
 
