@@ -31,7 +31,7 @@
 | [java-learning-journey](https://github.com/hariprasadcode/java-learning-journey) | Daily Java practice and progress |
 | [Webdevelopment-projects](https://github.com/hariprasadcode/frontend-javascript-projects) | UI-focused JavaScript projects |
 | [java-fundamentals](https://github.com/hariprasadcode/java-fundamentals) | Core Java concepts |
-| [DSA-Java](https://github.com/hariprasadcode/DSA-Java) | Data structures and algorithms |
+| [DSA-Java](https://github.com/hariprasadcode/DSA-Java) | Data structures and Algorithms |
 
 ---
 
