@@ -22,7 +22,7 @@
 
 ---
 
-## Work
+## Works
 
 | Project | Description |
 |--------|------------|
