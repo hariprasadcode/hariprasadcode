@@ -20,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,git,mysql" />
 </p>
 
-<p align="center">
-  DSA
-</p>
+
 
 ---
 
