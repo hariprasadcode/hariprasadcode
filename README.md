@@ -17,7 +17,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,SQL" />
 </p>
 
 ---
