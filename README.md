@@ -1,4 +1,4 @@
-<h1 align="center">Hari Prasad</h1>
+<h1 align="center">HARI PRASAD</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
 
