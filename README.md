@@ -12,7 +12,7 @@
 - Prefer learning through building real projects. 
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01
 
------
+----------
 
 ## Stack
 
