@@ -5,7 +5,6 @@
 -----
 
 ## About
-
 - Currently focused on Core Java , HTML , Css , JavScript , SQL , DSA
 - Working towards becoming a full stack developer  
 - Prefer learning through building real projects. 
