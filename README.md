@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer</h3>
 
 
------
+-------
 
 ## About
 - Currently focused on Core Java , HTML , Css , JavScript , SQL , DSA
