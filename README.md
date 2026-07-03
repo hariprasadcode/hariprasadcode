@@ -13,7 +13,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html5,css3,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,mysql,javascript" />
 </p>
 
 
