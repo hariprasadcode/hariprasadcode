@@ -3,7 +3,7 @@
 ---------
 
 ## About
-- Currently focused on Core Java , HTML , CSS , JavScript , SQL , DSA
+- Currently focused on Core Java , HTML , CSS , JavScript , SQL , Data Structure & Algorithm
 - Working towards becoming a full stack developer
 - Prefer learning through building real projects.
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01
