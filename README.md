@@ -3,7 +3,7 @@
 ---------
 
 ## About
-- Currently focused on Core Java , HTML , CSS , JavScript , SQL , DSA
+- Currently focused on Core Java , HTML , CSS , JavScript ,React, SQL , DSA
 - Working towards becoming a full stack developer
 - Prefer learning through building real projects.
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01
@@ -13,7 +13,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,javascript,React" />
 </p>
 
 
