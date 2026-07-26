@@ -3,7 +3,7 @@
 ---------
 
 ## About
-- Currently focused on Java , HTML , CSS , JavScript ,React, SQL , Dsa
+- Currently focused on Java , HTML , CSS , JavScript ,React, SQL , DSA
 - Working towards becoming a full stack developer
 - Prefer learning through building real projects.
 - LinkedIn: https://www.linkedin.com/in/hari-prasad01
